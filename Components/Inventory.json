@@ -1,0 +1,145 @@
+[
+    {
+        "id": 1,
+        "item": "Black oversized Hoodie",
+        "category": "top",
+        "price": 19,
+        "quantity": 0
+    },
+    {
+        "id": 2,
+        "item": "White Hoodie",
+        "category": "top",
+        "price": 50,
+        "quantity": 0
+    },
+    {
+        "id": 3,
+        "item": "Blue Oversized hoodie",
+        "category": "top",
+        "price": 19,
+        "quantity": 0
+    },
+    {
+        "id": 4,
+        "item": "Olive Green zip up hoodie",
+        "category": "top",
+        "price": 19,
+        "quantity": 0
+    },
+    {
+        "id": 5,
+        "item": "Red Zip-up hoodie",
+        "category": "top",
+        "price": 20,
+        "quantity": 0
+    },
+    {
+        "id": 6,
+        "item": "Dark Purple Hoodie",
+        "category": "top",
+        "price": 50,
+        "image": "/clothesImages/purplehoodie_256,jpg",
+        "quantity": 0
+    },
+    {
+        "id": 7,
+        "item": "Neon Orange Hoodie",
+        "category": "top",
+        "price": 60,
+        "quantity": 0
+    }
+    ,
+    {
+        "id": 8,
+        "item": "Brown Zip Up Hoodie",
+        "category": "top",
+        "price": 50,
+        "quantity": 0
+    },
+    {
+        "id": 9,
+        "item": "Taupe Hoodie",
+        "category": "top",
+        "price": 59,
+        "quantity": 0
+    },
+    {
+        "id": 10,
+        "item": "Grey Hoodie",
+        "category": "top",
+        "price": 45,
+        "quantity": 0
+    },
+    {
+        "id": 11,
+        "item": "Black joggers",
+        "category": "pants",
+        "price": 25,
+        "quantity": 0
+    },
+    {
+        "id": 12,
+        "item": "White joggers",
+        "category": "pants",
+        "price": 25,
+        "quantity": 0
+    },
+    {
+        "id": 13,
+        "item": "Blue joggers",
+        "category": "pants",
+        "price": 24,
+        "quantity": 0
+    },
+    {
+        "id": 14,
+        "item": "Olive Green joggers",
+        "category": "pants",
+        "price": 26,
+        "quantity": 0
+    },
+    {
+        "id": 55,
+        "item": "Red joggers",
+        "category": "pants",
+        "price": 24,
+        "quantity": 0
+    },
+    {
+        "id": 16,
+        "item": "Dark Purple joggers",
+        "category": "pants",
+        "price": 20,
+        "quantity": 0
+    },
+    {
+        "id": 17,
+        "item": "Neon Orange joggers",
+        "category": "pants",
+        "price": 19,
+        "quantity": 0
+    }
+    ,
+    {
+        "id": 18,
+        "item": "Brown joggers",
+        "category": "pants",
+        "price": 22,
+        "quantity": 0
+    },
+    {
+        "id": 19,
+        "item": "Taupe joggers",
+        "category": "pants",
+        "price": 24,
+        "quantity": 0
+    },
+    {
+        "id": 20,
+        "item": "Grey joggers",
+        "category": "pants",
+        "price": 25,
+        "quantity": 0
+    }
+]
